@@ -1,4 +1,4 @@
-### Olá, Me chamo Matheus 👋
+### Olá, Me chamo Matheus Araujo 👋
 
 - 🌱 Estudando ReactJS
 - 🤔 Procuro por pessoas que queiram desenvolver aplicações
